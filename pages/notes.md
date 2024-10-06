@@ -1,6 +1,6 @@
 ---
 layout: Post
-permalink: /notes
+permalink: /sciore
 feedformat: card
 title: My Notes
 ---
