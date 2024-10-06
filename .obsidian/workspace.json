@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "a4b375a4a979958d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ad3aa8dd553e1d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f13b937b2f89bfb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbc4b0460d56f732",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a3e3e610757c995",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9603d0caa581daed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f60e85c77ff5c8df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19c560fdc5e6d4b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3aca5924bf8dd9c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd6c8bf63e1c0873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "086547066a4ea40a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4590abae2b275469",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "985994a8b7e0a320",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4908c1a831ccdbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9603d0caa581daed",
+  "lastOpenFiles": [
+    "_notes/Public/chapter-1.md",
+    "_notes/Public",
+    "_notes",
+    "_layouts/Stylesheet.html",
+    "_layouts/Post.html",
+    "_layouts",
+    "_includes/Related.html",
+    "_includes/Nav.html",
+    "_includes/Homepage.html",
+    "_includes/Footer.html",
+    "_includes/Feed.html",
+    "templates/new_post.md",
+    "templates/callout_style_open.md",
+    "templates/callout_style_close.md",
+    "templates/callout_style.md",
+    "pages/posts.md",
+    "pages/notes.md",
+    "pages/lists.md",
+    "pages/index.md",
+    "pages/404.md",
+    "assets/img/_images/salary_inner_2.png",
+    "assets/img/_images/salary_inner_1.png",
+    "assets/img/_images/jupyter_py.png",
+    "assets/img/_images/jupyter_git_5.jpg",
+    "assets/img/_images/jupyter_git_4.jpg",
+    "assets/img/_images/jupyter_git_3.jpg",
+    "assets/img/_images/jupyter_git_2.jpg",
+    "assets/img/_images/jupyter_git_1.jpg",
+    "assets/img/_images/jupyter_git_0.jpg",
+    "assets/img/_images/history-server.png"
+  ]
+}
