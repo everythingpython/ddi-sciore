@@ -11,8 +11,12 @@
             "id": "1f13b937b2f89bfb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/Chapter-1 - Database Systems.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/Public/Chapter-1 - Database Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_notes/Public/Chapter-1 - Database Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_notes/Public/Chapter-1 - Database Systems.md"
+              }
             }
           }
         ]
@@ -138,19 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9603d0caa581daed",
+  "active": "1f13b937b2f89bfb",
   "lastOpenFiles": [
-    "_notes/Public/chapter-1.md",
+    "_notes/Public/Chapter-1 - Database Systems.md",
     "_notes/Public",
     "_notes",
+    "_sciore/Public/chapter-1.md",
+    "_sciore/Public",
+    "_sciore",
+    "_config.yml",
     "_layouts/Stylesheet.html",
     "_layouts/Post.html",
     "_layouts",
     "_includes/Related.html",
     "_includes/Nav.html",
-    "_includes/Homepage.html",
-    "_includes/Footer.html",
-    "_includes/Feed.html",
     "templates/new_post.md",
     "templates/callout_style_open.md",
     "templates/callout_style_close.md",
