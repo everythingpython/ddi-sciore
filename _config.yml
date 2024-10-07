@@ -96,6 +96,7 @@ defaults:
     values:
       layout: Post
       content-type: notes
+      permalink: /sciore/:title
 
 
 # Exclude from processing.
